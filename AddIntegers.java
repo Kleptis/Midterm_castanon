@@ -12,6 +12,7 @@ public class AddIntegers {
     }
     public swim(){
       System.out.println("A duck can swim");
+      System.out.println("yes");
     }
-    
+
 }
