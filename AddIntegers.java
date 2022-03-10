@@ -10,4 +10,8 @@ public class AddIntegers {
 
         System.out.println("The sum is: " + sum);
     }
+    public swim(){
+      System.out.println("A duck can swim");
+    }
+    
 }
